@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hashicorp/terraform/helper/schema"
+	"github.com/hashicorp/terraform/tree/master/helper/schema"
 	"github.com/op/go-logging"
 	"github.com/vmware/terraform-provider-vra7/utils"
 )

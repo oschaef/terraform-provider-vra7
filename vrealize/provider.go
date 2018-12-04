@@ -2,8 +2,8 @@ package vrealize
 
 import (
 	"fmt"
-	"github.com/hashicorp/terraform/helper/schema"
-	"github.com/hashicorp/terraform/terraform"
+	"github.com/hashicorp/terraform/tree/master/helper/schema"
+	"github.com/hashicorp/terraform/tree/master/terraform"
 )
 
 //Provider - This function initializes the provider schema
